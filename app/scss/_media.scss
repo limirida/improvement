@@ -1,0 +1,466 @@
+@media(max-width:1150px) {
+    .main-general h1 {
+        font-size: 30px;
+        line-height: 1.5;
+        letter-spacing: 1.5px;
+        padding-top: 40px;
+    }
+
+    .main-general h1::before {
+        height: 74%;
+    }
+
+    .main-general__btn {
+        padding-bottom: 90px;
+    }
+
+    .form-ingener__wrap {
+        padding: 0 40px;
+    }
+
+    .training img {
+        max-height: 100%;
+    }
+
+    body h2 {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+
+        span {
+            font-size: 30px;
+            line-height: 0.6;
+            letter-spacing: 1.5px;
+        }
+
+    }
+
+    .technology-slider.slick-slider {
+        margin: 0 auto;
+    }
+
+    .technology-slider-2.slick-slider {
+        margin: 0 auto;
+    }
+
+    .technology-slider-3.slick-slider {
+        margin: 0 auto;
+    }
+
+    .technology-slider ul {
+        bottom: -60px;
+    }
+
+    .technology-slider-2 ul {
+        bottom: -60px;
+    }
+
+    .technology-slider-3 ul {
+        bottom: -60px;
+    }
+
+    .technology-img {
+        margin-bottom: 0;
+    }
+
+    .tile {
+        padding-top: 45px;
+    }
+
+    .tile .heading {
+        padding: 0 50px 38px;
+        line-height: 1.5;
+        letter-spacing: 1.2px;
+
+        span {
+            line-height: 1.2;
+            letter-spacing: 1.5px;
+        }
+    }
+
+    .options {
+        margin-top: 20px;
+    }
+
+    .popup-call .popup {
+        margin-top: -40px;
+    }
+
+    .asphalt-information__bg {
+        background: url(../img/asphalt-information__bg-970.png) no-repeat;
+        background-size: cover;
+    }
+
+
+    .stages-work--2::before {
+        width: 40px;
+    }
+
+    .stages-work--2::after {
+        width: 40px;
+    }
+
+    .main-general {
+        background: url(../img/main-general-bg-970.png) no-repeat;
+        background-size: 100% 100%;
+        padding-top: 150px;
+    }
+
+    .video-wrap::before {
+        top: -20px;
+    }
+
+    .header {
+        padding: 10px 0;
+    }
+
+    .asphalt-information .line-yellow::before {
+        top: 75%;
+    }
+}
+
+@media(max-width:976px) {
+    .main-general {
+        background: url(../img/main-general-bg-750.png) no-repeat;
+        background-size: 110% 120%;
+        padding-top: 100px;
+    }
+
+    .main-general h1 {
+        line-height: 1.33;
+        padding-top: 50px;
+    }
+
+    .header {
+        padding: 15px 0 45px;
+        font-weight: normal;
+    }
+
+    .header-phone {
+        font-weight: bold;
+    }
+
+    .main-general h1::before {
+        bottom: 0;
+        height: 68%;
+    }
+
+    .main-general__btn {
+        padding-bottom: 45px;
+    }
+
+    .asphalt-popup {
+        top: -22px;
+    }
+
+    .video-wrap img {
+        margin: 0;
+    }
+
+    .technology-slider ul {
+        bottom: -40px;
+    }
+
+    .options {
+        margin-top: 40px;
+    }
+
+    .review-slider .slick-dots {
+        bottom: 25px;
+    }
+}
+
+@media(max-width:750px) {
+    .asphalt-information__bg {
+        padding-top: 187px;
+        background-image: url(../img/asphalt-information__bg-750.png);
+        background-size: contain;
+    }
+
+    .asphalt-information__bg .bg-gray {
+        margin-left: 10%;
+    }
+
+    .image-text {
+        bottom: 10px;
+        left: 15px;
+    }
+
+    .review-slider {
+        margin: 0 auto;
+    }
+
+    .review-slider .slick-dots {
+        bottom: -55px;
+    }
+
+    .stages-work--2::before {
+        width: 1px;
+        height: 40px;
+        top: -20px;
+        left: 50%;
+    }
+
+    .stages-work--2::after {
+        width: 1px;
+        height: 40px;
+        // bottom: 200px;
+        left: 50%;
+        top: 95%;
+    }
+
+    .footer-contacts .row {
+        padding: 0 20px;
+    }
+
+    .technology .line-yellow::before {
+        top: 70%;
+    }
+
+}
+
+@media(max-width:600px) {
+    .main-general {
+        background: url(../img/main-general-bg-480.png) no-repeat;
+        background-size: 100% 110%;
+        padding-top: 80px;
+    }
+
+    .header {
+        font-size: 12px;
+        padding: 15px 0 0;
+    }
+
+    .main-general h1 {
+        padding-top: 0;
+        font-size: 24px;
+        line-height: 1.25;
+        padding-left: 10px;
+    }
+
+    .main-general h1::before {
+        bottom: 0;
+        height: 98%;
+        left: -5px;
+    }
+
+    .main-general h2 {
+        font-size: 16px;
+        line-height: 1.25;
+        letter-spacing: 0.8px;
+        padding-bottom: 16px;
+    }
+
+    .yellow-btn {
+        height: 45px;
+        padding: 12px 0;
+    }
+
+    .asphalt-popup .heading {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+    }
+
+    body h2 {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.8px;
+    }
+
+    body h2 span {
+        font-size: 24px;
+        line-height: 0.75;
+        letter-spacing: 1.2px;
+    }
+
+    .asphalt-info .heading {
+        padding: 0 30px 30px;
+    }
+
+    .tile .heading {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.8px;
+        padding: 0 30px 30px;
+        text-shadow: 1.8px 0.9px 1px rgba(0, 0, 0, 0.19);
+
+        span {
+            font-size: 24px;
+            line-height: 1.25;
+            letter-spacing: 1.2px;
+        }
+
+    }
+
+    .tile .heading.black-line::before {
+        top: -2px;
+    }
+
+    .text-price {
+        font-size: 18px;
+        line-height: 1.33;
+        letter-spacing: 0.9px;
+    }
+
+    .info__text p {
+        padding-bottom: 35px;
+    }
+
+    .asphalt-info .video-wrap {
+        margin-top: -20px;
+        z-index: 2;
+    }
+
+    .video-wrap::before {
+        top: -10px;
+    }
+
+    h5 {
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.7px;
+    }
+
+    .technology-slider ul {
+        bottom: -50px;
+    }
+
+    .technology p {
+        padding-bottom: 35px;
+    }
+
+    .technology-slider-2 ul {
+        bottom: -50px;
+    }
+
+
+    .asphalt-information__bg {
+        padding-top: 184px;
+        background-image: url(../img/asphalt-information__bg-480.png);
+        background-size: contain;
+    }
+
+    .our-work h2 {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+    }
+
+    .stages-work h2 {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+    }
+
+    .choice h2 {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+    }
+
+    .choice {
+        font-size: 12px;
+        line-height: 1.5;
+        letter-spacing: 0.6px;
+
+        h5 {
+            font-size: 12px;
+        }
+    }
+
+    .footer-text {
+        padding-bottom: 116px;
+    }
+
+    .footer h2 {
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+    }
+
+    .popup {
+        background-image: url(../img/popup-bg-480.png);
+    }
+}
+
+@media(max-width:479px) {
+    .header {
+        font-size: 12px;
+        padding: 6px 0 0;
+    }
+
+    .main-general h1 {
+        padding-top: 10px;
+        font-size: 16px;
+        padding-left: 1px;
+    }
+
+    .heading-mini {
+        line-height: 1;
+    }
+
+    body h2 span {
+        font-size: 15px;
+    }
+
+    .main-general h2 {
+        padding-top: 20px;
+        font-size: 15px;
+        line-height: 1;
+    }
+
+    .yellow-btn {
+        font-size: 10px;
+    }
+
+    .form-ingener__wrap {
+        padding: 0px 20px;
+    }
+
+    .services a {
+        font-size: 10px;
+    }
+
+    .tile .heading,
+    .tile .heading span,
+    .text-price {
+        font-size: 12px;
+    }
+
+    .asphalt-information__bg {
+        background-position: -28px 0;
+    }
+
+    .stages-work h2,
+    .choice h2,
+    .footer h2,
+    .our-work h2 {
+        font-size: 16px;
+        line-height: 1;
+    }
+
+    .asphalt-popup .heading {
+        font-size: 18px;
+    }
+
+    .our-work .spb75 {
+        padding-bottom: 30px;
+    }
+
+    .our-work .sp60 {
+        padding-top: 30px;
+    }
+
+    .footer .spb116 {
+        padding-bottom: 60px;
+    }
+
+    .main-general {
+        background-size: 101% 99%;
+    }
+
+    .review-slider.slick-initialized {
+        display: none;
+    }
+}
